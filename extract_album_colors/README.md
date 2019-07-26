@@ -3,6 +3,8 @@
 I thought this was a pretty successful python experiment, so I'm saving it down to a slightly more reliable computer.
 
 **Sample Outputs:**
-![sample1](https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample1.png)
-![sample2](https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample2.png)
-![sample3](https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample3.png)
+
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample1.png" width="350px" />
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample2.png" width="350px" />
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample3.png" width="350px" />
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/sample4.png" width="350px" />
