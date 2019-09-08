@@ -6,7 +6,9 @@ A mini application for searching albums and extracting a color from its cover. B
 
 **Sample Outputs:**
 
-<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/because_i_was_in_love.png" width="500px" />
-<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/wide_awake.png" width="350px" />
-<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/ok_3.png" width="350px" />
+<p align="center">
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/because_i_was_in_love.png" width="500px" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/wide_awake.png" width="350px" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/ok_3.png" width="350px" /><br /><br />
 <img src="https://github.com/erinachavez/experiments/blob/master/extract_album_colors/samples/content_nausea.png" width="350px" />
+</p>
