@@ -1,6 +1,8 @@
-### Extract Album Colors
+## Extract Album Colors
 
 I thought this was a pretty successful python experiment, so I'm saving it down to a slightly more reliable computer.
+
+A mini application for searching albums and extracting a color from its cover. Built with python 3; utilizes [Spotify's API](https://github.com/spotify/web-api), [colorgram].
 
 **Sample Outputs:**
 
