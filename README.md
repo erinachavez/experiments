@@ -14,4 +14,5 @@ A conglomeration of creative coding experiments
 - [Perlin Rings](https://github.com/erinachavez/experiments/tree/master/perlin_rings) // [Live Example](https://erinachavez.github.io/perlin_rings/)
   - A quick program I built in hopes of utilizing for a screen printing project &mdash; see the [project's README](https://github.com/erinachavez/experiments/tree/master/perlin_rings) for instructions on how to generate your own perlin rings!
   - Built with [Processing](https://processing.org), translated with [p5.js](https://p5js.org/) for web use
- 
+- [p5.riso Pilot](https://github.com/erinachavez/experiments/tree/master/riso_pilot)
+  - An excited initial jump into the world of :sparkles:bot risography:sparkles: thanks to [antiboredom's p5.riso library](https://github.com/antiboredom/p5.riso)
