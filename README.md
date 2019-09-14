@@ -16,6 +16,6 @@ A conglomeration of creative coding experiments
   - Built with [Processing](https://processing.org), translated with [p5.js](https://p5js.org/) for web use
 - [p5.riso Pilot](https://github.com/erinachavez/experiments/tree/master/riso_pilot)
   - An excited initial jump into the world of :sparkles:bot risography:sparkles: thanks to [antiboredom's p5.riso library](https://github.com/antiboredom/p5.riso)
-- [Random Tesselations](https://github.com/erinachavez/experiments/tree/master/tesselations) // [Live Example](https://erinachavez.github.io/tesselations)
+- [Random Tesselations](https://github.com/erinachavez/experiments/tree/master/tesselations) // [Live Example](https://erinachavez.github.io/tesselations/index.html)
   - I have been wanting to test an idea for a little while on randomly generating tesselating tiles... :stars:
   - Built with [p5.js](https://p5js.org) and borrowed a function from [math.js](https://mathjs.org).
