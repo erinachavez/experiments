@@ -4,7 +4,7 @@ A simple experiment in manipulating an image along random grid lines&mdash; crea
 
 **Sample Outputs:**
 <br /><br />
-<img src="https://github.com/erinachavez/experiments/blob/master/image_maniuplation/samples/sample1.png" /><br /><br />
-<img src="https://github.com/erinachavez/experiments/blob/master/image_maniuplation/samples/sample2.png" /><br /><br />
-<img src="https://github.com/erinachavez/experiments/blob/master/image_maniuplation/samples/sample3.png" /><br /><br />
-<img src="https://github.com/erinachavez/experiments/blob/master/image_maniuplation/samples/sample4.png" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample1.png" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample2.png" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample3.png" /><br /><br />
+<img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample4.png" /><br /><br />
