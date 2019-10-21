@@ -5,11 +5,14 @@
 
 # directories #
 ###############
-/riso_misc/*
 /curved_tesselations/*
+/organic_shape_generator/*
+/riso_misc/*
+/ten_color_chart/*
 
 # specific files #
 ##################
+/image_manipulation/image_manipulation_notes.js
 /riso_pilot/images/5.jpg
 /riso_pilot/images/6.jpg
 /riso_pilot/images/7.jpg
