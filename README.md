@@ -19,3 +19,7 @@ A conglomeration of creative coding experiments
 - [Random Tesselations](https://github.com/erinachavez/experiments/tree/master/tesselations) // [Live Example](https://erinachavez.github.io/experiments/tesselations/)
   - I have been wanting to test an idea for a little while on randomly generating tesselating tiles... :stars:
   - Built with [p5.js](https://p5js.org) and borrowed a function from [math.js](https://mathjs.org).
+- [Image Manipulations](https://github.com/erinachavez/experiments/tree/master/image_manipulation) // [Live Example](https://erinachavez.github.io/experiments/image_manipulation/)
+  - A simple experiment in manipulating an image along random grid lines&mdash; created to be printed as a risograph
+  - You may have to zoom out in your browser to properly view the images generated!
+  - Built with [p5.js](https://p5js.org)
