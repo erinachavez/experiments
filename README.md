@@ -8,14 +8,14 @@ A conglomeration of creative coding experiments
 - [Maze iOS Game](https://github.com/erinachavez/experiments/tree/master/maze_ios_game)
   - My first experiment into creating a mobile game app &mdash;a basic maze tilt game!
   - Built with Unity (C#), deployed with Xcode
-- [Pattern Generator](https://github.com/erinachavez/experiments/tree/master/pattern_generator) // [Live Example](https://erinachavez.github.io/pattern_generator/)
+- [Pattern Generator](https://github.com/erinachavez/experiments/tree/master/pattern_generator) // [Live Example](https://erinachavez.github.io/experiments/pattern_generator/)
   - A quick and dirty experiment for generating random, but tileable, patterns. Refresh the page for endless patterns!
   - Built with [p5.js](https://p5js.org/)
-- [Perlin Rings](https://github.com/erinachavez/experiments/tree/master/perlin_rings) // [Live Example](https://erinachavez.github.io/perlin_rings/)
+- [Perlin Rings](https://github.com/erinachavez/experiments/tree/master/perlin_rings) // [Live Example](https://erinachavez.github.io/experiments/perlin_rings/)
   - A quick program I built in hopes of utilizing for a screen printing project &mdash; see the [project's README](https://github.com/erinachavez/experiments/tree/master/perlin_rings) for instructions on how to generate your own perlin rings!
   - Built with [Processing](https://processing.org), translated with [p5.js](https://p5js.org/) for web use
 - [p5.riso Pilot](https://github.com/erinachavez/experiments/tree/master/riso_pilot)
   - An excited initial jump into the world of :sparkles:bot risography:sparkles: thanks to [antiboredom's p5.riso library](https://github.com/antiboredom/p5.riso)
-- [Random Tesselations](https://github.com/erinachavez/experiments/tree/master/tesselations) // [Live Example](https://erinachavez.github.io/tesselations/index.html)
+- [Random Tesselations](https://github.com/erinachavez/experiments/tree/master/tesselations) // [Live Example](https://erinachavez.github.io/experiments/tesselations/)
   - I have been wanting to test an idea for a little while on randomly generating tesselating tiles... :stars:
   - Built with [p5.js](https://p5js.org) and borrowed a function from [math.js](https://mathjs.org).
