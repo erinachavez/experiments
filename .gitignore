@@ -3,13 +3,6 @@
 .DS_Store
 .DS_Store?
 
-# directories #
-###############
-/curved_tesselations/*
-/organic_shape_generator/*
-/riso_misc/*
-/ten_color_chart/*
-
 # specific files #
 ##################
 /image_manipulation/image_manipulation_notes.js
