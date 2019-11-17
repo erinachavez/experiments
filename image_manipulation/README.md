@@ -12,4 +12,6 @@ A simple experiment in manipulating an image along random grid lines&mdash; crea
 
 **Riso Print (Closeup)**
 <br /><br />
+<p align="center">
 <img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/riso_sample.jpg" width="600" />
+</p>
