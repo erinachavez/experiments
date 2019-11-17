@@ -10,7 +10,7 @@ A simple experiment in manipulating an image along random grid lines&mdash; crea
 <img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample3.png" width="400" />
 <img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/sample4.png" width="400" />
 
-**Riso Print (Closeup)**
+**Riso Print (Closeup):**
 <br /><br />
 <p align="center">
 <img src="https://github.com/erinachavez/experiments/blob/master/image_manipulation/samples/riso_sample.jpg" width="600" />
