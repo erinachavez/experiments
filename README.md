@@ -23,9 +23,9 @@ A conglomeration of creative coding experiments
   - A simple experiment in manipulating an image along random grid lines&mdash; created to be printed as a risograph
   - You may have to zoom out in your browser to properly view the images generated!
   - Built with [p5.js](https://p5js.org). Printed at the SVA's [RisoLAB](https://risolab.sva.edu).
-- [Four-Way Grid Distortion](https://github.com/erinachavez/experiments/tree/master/four_grid_distortion) // [Live Example](https://erinachavez.github.io/experiments/four_grid_distortion/)
+- [Four-Way Grid Distortion](https://github.com/erinachavez/experiments/tree/master/four_grid_distortion) // [Live Example](https://erinachavez.github.io/experiments/four_grid_distortion/index.html)
   - Inspired by [this video](https://youtu.be/f1fXCRtSUWU), I created a digital version of the same concept - and then printed it as part of a riso booklet!
   - Built with [p5.js](https://p5js.org). I'll publish a version of the same experiment I adapted to be print ready in the near future.
-- [Riso Color Sandbox](https://github.com/erinachavez/experiments/tree/master/riso_color_sandbox) // [Live Example](https://erinachavez.github.io/experiments/riso_color_sandbox/)
+- [Riso Color Sandbox](https://github.com/erinachavez/experiments/tree/master/riso_color_sandbox) // [Live Example](https://erinachavez.github.io/experiments/riso_color_sandbox/index.html)
   - A quick and dirty sandbox for discovering new riso color combinations. Mine is customized to the SVA RisoLAB's 11 color drums. Feel free to fork and adjust [risolab_colors.js](https://github.com/erinachavez/experiments/tree/master/riso_color_sandbox/risolab_colors.js) to your needs!
   - Built with [p5.js](https://p5js.org) and [p5.riso](https://github.com/antiboredom/p5.riso).
