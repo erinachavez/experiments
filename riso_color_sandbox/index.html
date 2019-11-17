@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Riso Color Playground</title>
+
+    <style>
+      body {
+        margin: 0;
+        padding: 25px 0;
+        background-color: rgb(245, 245, 245);
+        font-family: "Courier New", serif;
+        font-size: 12px;
+      }
+
+      .flex-container {
+        display: flex;
+        justify-content: center;
+      }
+        .flex-container #form {
+          margin-right: 100px;
+        }
+
+        #form div, #form button, #form input { width: 100%; }
+        #form p { margin-bottom: 5px; }
+
+        #form input,
+        #form button {
+          background: #fff;
+          border: none;
+          cursor: pointer;
+          font-family: "Courier New", serif;
+          font-size: 14px;
+          margin-bottom: 12px;
+          padding: 7.5px 10px;
+        }
+
+      .canvas_container { width: fit-content; }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.js"></script>
+    <script src="p5.riso.js"></script>
+    <script src="risolab_colors.js"></script>
+    <script src="riso_color_sandbox.js"></script>
+  </head>
+
+  <body>
+    <div class="flex-container">
+      <div id="form">
+        <div id="color_buttons">
+          <button value="FLUORESCENTPINK">Fluorescent Pink</button><br />
+          <button value="BRIGHTRED">Bright Red</button><br />
+          <button value="ORANGE">Orange</button><br />
+          <button value="YELLOW">Yellow</button><br />
+          <button value="GREEN">Green</button><br />
+          <button value="TEAL">Teal</button><br />
+          <button value="CORNFLOWER">Cornflower</button><br />
+          <button value="BLUE">Blue</button><br />
+          <button value="PURPLE">Purple</button><br />
+          <button value="BLACK">Black</button><br />
+          <button value="METALLICGOLD">Metallic Gold</button><br />
+        </div>
+        <br />
+        <button name="clear">Clear</button>
+        <br /><br />
+        <p>Opacity (0 - 255):</p>
+        <input type="number" min="0" max="255" value="255" />
+      </div>
+      <div id="riso_color_sandbox" class="canvas_container"></div>
+    </div>
+  </body>
+</html>
