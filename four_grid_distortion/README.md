@@ -1,6 +1,6 @@
 ## Four-Way Grid Distortion // [Live Example](https://erinachavez.github.io/experiments/four_grid_distortion/)
 
-Inspired by [this video](https://www.youtube.com/watch?v=f1fXCRtSUWU&feature=youtu.be), I created a digital version of the same concept - and then printed it as part of a riso booklet! I'll publish a version of the same experiment I adapted to be print ready in the near future.
+Inspired by [this video](https://www.youtube.com/watch?v=f1fXCRtSUWU&feature=youtu.be), I created a digital version of the same concept - and then printed it as part of a riso booklet! You can see the full booklet and adapted code here: [https://github.com/erinachavez/riso_booklet](https://github.com/erinachavez/riso_booklet)
 
 **Sample Outputs:**
 <br /><br />
